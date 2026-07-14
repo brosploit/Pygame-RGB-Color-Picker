@@ -29,7 +29,7 @@ An interactive RGB Color Picker built using **Python** and **Pygame**. This appl
 ```
 pygame-rgb-color-picker/
 │
-├── main.py
+├── Pygame-RGB-Color-Picker.py
 ├── requirements.txt
 ├── README.md
 └── LICENSE
